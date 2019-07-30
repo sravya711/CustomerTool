@@ -6,3 +6,5 @@ customer-tool/.settings/org.eclipse.jdt.core.prefs
 customer-tool/target/classes/META-INF/maven/com.customer.tool/customer-tool/pom.properties
 customer-tool/target/classes/META-INF/maven/com.customer.tool/customer-tool/pom.xml
 customer-tool/target/classes/META-INF/MANIFEST.MF
+customer-tool/target/classes/
+customer-tool/
